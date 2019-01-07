@@ -1,7 +1,7 @@
 {
   "icon": "icon.jpg",
   "round": true,
-  "percent": 0.18,
+  "round_percent": 0.18,
   "icon_name": "ic_launcher.png",
   "mipmaps": [
     { "name": "mipmap-ldpi", "size": 36 },
