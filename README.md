@@ -14,6 +14,12 @@ pip install -r requirements.txt
 
 一张高清 icon 原图，建议 1024x1024，存放至根目录。
 
+## 使用
+
+```
+python icon_maker.py
+```
+
 ## 配置
 
 在 android.json 中进行配置，如无特殊要求，请使用当前配置。
@@ -25,9 +31,3 @@ pip install -r requirements.txt
 - mipmaps: mipmaps 配置
   - name: 一般对应 mipmaps 目录名，如 mipmap-ldpi
   - size: 尺寸，可根据是否高清配置
-
-## 运行
-
-```
-python icon_maker.py
-```
