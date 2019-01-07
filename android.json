@@ -1,0 +1,15 @@
+{
+  "icon": "icon.jpg",
+  "round": true,
+  "percent": 0.18,
+  "icon_name": "ic_launcher.png",
+  "mipmaps": [
+    { "name": "mipmap-ldpi", "size": 36 },
+    { "name": "mipmap-mdpi", "size": 48 },
+    { "name": "mipmap-hdpi", "size": 192 },
+    { "name": "mipmap-xhdpi", "size": 256 },
+    { "name": "mipmap-xxhdpi", "size": 384 },
+    { "name": "mipmap-xxxhdpi", "size": 512 },
+    { "name": ".", "size": 512 }
+  ]
+}
